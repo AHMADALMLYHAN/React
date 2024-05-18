@@ -21,7 +21,7 @@ const About = () => {
                     <button className='text-2xl bg-[#6DA4AA]
                     text-[#EEFDFF] mx-auto py-4 px-6 rounded-ss-xl
                     rounded-ee-xl hover:border-[1px] hover:bg-[#004E56]
-                    hover:text-[#6DA4AA] duration-200'>
+                    hover:text-[#6DA4AA] duration-200 hover:border-[#6DA4AA]'>
                         Book Session
                     </button>
                 </div>

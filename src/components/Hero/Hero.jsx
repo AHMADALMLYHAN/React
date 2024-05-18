@@ -21,7 +21,7 @@ const Hero = () => {
                         </p>
                         <div className='flex items-center gap-8 flex-col min-[992px]:flex-row'>
                             <button className='text-xl bg-[#6DA4AA] py-4 px-8 rounded-ss-xl
-                                text-white rounded-ee-xl hover:bg-white border-[1px]
+                                text-[#EEFDFF] rounded-ee-xl hover:bg-[#EEFDFF] border-[1px]
                                 hover:border-[#6DA4AA] hover:text-[#6DA4AA] duration-200'>
                                 Book Session
                             </button>
